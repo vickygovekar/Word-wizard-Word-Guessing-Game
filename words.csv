@@ -1,0 +1,106 @@
+word,hint,neighbors
+germany,Germany is a country known for its history.,spain;brazil;canada
+football,Football is a sport involving field.,tennis;golf;cricket
+turquoise,Turquoise is a shade of color resembling sand.,lavender;olive;emerald
+dentist,Dentist is a profession involving teaching.,chef;nurse;architect
+doctor,Doctor is a profession involving helping people.,nurse;dentist;teacher
+bandwidth,Bandwidth refers to network security in computing.,kernel;encryption;router
+fern,Fern is a plant characterized by strong wood.,bamboo;rose;sunflower
+teacher,Teacher is a profession involving helping people.,nurse;architect;lawyer
+zebra,Zebra is a nocturnal animal.,elephant;giraffe;tiger
+tiger,Tiger is a aquatic animal.,rhino;fox;kangaroo
+strawberry,Strawberry is a tangy fruit prized for its taste.,kiwi;pear;cherry
+japan,Japan is a country known for its landscapes.,india;brazil;france
+protocol,Protocol refers to communication in computing.,pixel;compiler;database
+pine,Pine is a plant characterized by evergreen growth.,cactus;moss;oak
+wrench,Wrench is a tool used for boring holes.,drill;screwdriver;chisel
+penguin,Penguin is a nocturnal animal.,bear;zebra;wolf
+saw,Saw is a tool used for cutting.,anvil;chisel;drill
+spain,Spain is a country known for its cuisine.,italy;france;china
+bear,Bear is a majestic animal.,monkey;penguin;dolphin
+brazil,Brazil is a country known for its history.,mexico;china;canada
+rose,Rose is a plant characterized by fragrance.,moss;cactus;bamboo
+azure,Azure is a shade of color resembling sand.,gold;crimson;olive
+kiwi,Kiwi is a juicy fruit prized for its taste.,pineapple;watermelon;papaya
+screwdriver,Screwdriver is a tool used for boring holes.,hammer;anvil;saw
+tram,Tram is a vehicle used for speed.,bus;train;airplane
+skiing,Skiing is a sport involving rackets.,tennis;boxing;basketball
+mango,Mango is a tangy fruit prized for its taste.,grape;cherry;pineapple
+train,Train is a vehicle used for speed.,motorcycle;submarine;tram
+bus,Bus is a vehicle used for travel.,tram;truck;scooter
+monkey,Monkey is a aquatic animal.,wolf;fox;rhino
+algorithm,Algorithm refers to network security in computing.,encryption;router;bandwidth
+wolf,Wolf is a aquatic animal.,giraffe;kangaroo;bear
+moss,Moss is a plant characterized by fragrance.,fern;sunflower;pine
+drill,Drill is a tool used for turning screws.,chisel;pliers;anvil
+china,China is a country known for its landscapes.,brazil;mexico;italy
+pliers,Pliers is a tool used for turning screws.,drill;tape;level
+dolphin,Dolphin is a aquatic animal.,penguin;rhino;elephant
+maroon,Maroon is a shade of color resembling yellow metal.,beige;gold;olive
+beige,Beige is a shade of color resembling green gems.,emerald;gold;lavender
+scooter,Scooter is a vehicle used for speed.,airplane;tram;bus
+airplane,Airplane is a vehicle used for travel.,motorcycle;train;bus
+pineapple,Pineapple is a tropical fruit prized for its taste.,mango;papaya;strawberry
+basketball,Basketball is a sport involving team play.,tennis;cycling;golf
+italy,Italy is a country known for its landscapes.,germany;canada;spain
+shark,Shark is a fierce animal.,elephant;wolf;penguin
+yacht,Yacht is a vehicle used for navigation.,motorcycle;submarine;tram
+tennis,Tennis is a sport involving athletic skill.,cricket;cycling;basketball
+baseball,Baseball is a sport involving field.,hockey;cricket;tennis
+india,India is a country known for its culture.,italy;japan;canada
+watermelon,Watermelon is a juicy fruit prized for its taste.,strawberry;pineapple;papaya
+anvil,Anvil is a tool used for turning screws.,screwdriver;chisel;drill
+canada,Canada is a country known for its landscapes.,china;brazil;japan
+boxing,Boxing is a sport involving a ball.,football;basketball;cycling
+chef,Chef is a profession involving teaching.,doctor;architect;dentist
+fox,Fox is a aquatic animal.,panda;monkey;shark
+cherry,Cherry is a tropical fruit prized for its taste.,pineapple;strawberry;peach
+kangaroo,Kangaroo is a majestic animal.,penguin;shark;fox
+grape,Grape is a juicy fruit prized for its taste.,kiwi;peach;papaya
+helicopter,Helicopter is a vehicle used for travel.,scooter;truck;train
+panda,Panda is a wild animal.,giraffe;tiger;penguin
+level,Level is a tool used for fastening.,tape;screwdriver;hammer
+eagle,Eagle is a nocturnal animal.,tiger;dolphin;shark
+cricket,Cricket is a sport involving athletic skill.,tennis;football;golf
+motorcycle,Motorcycle is a vehicle used for transportation.,scooter;truck;submarine
+compiler,Compiler refers to network security in computing.,protocol;encryption;firewall
+tape,Tape is a tool used for fastening.,drill;wrench;level
+artist,Artist is a profession involving creating.,chef;lawyer;nurse
+lawyer,Lawyer is a profession involving helping people.,dentist;pilot;chef
+hockey,Hockey is a sport involving a ball.,tennis;cricket;cycling
+engineer,Engineer is a profession involving healing.,doctor;chef;nurse
+sunflower,Sunflower is a plant characterized by evergreen growth.,orchid;fern;cactus
+lavender,Lavender is a shade of color resembling yellow metal.,emerald;beige;indigo
+orchid,Orchid is a plant characterized by strong wood.,fern;rose;oak
+bamboo,Bamboo is a plant characterized by strong wood.,fern;orchid;rose
+truck,Truck is a vehicle used for speed.,scooter;airplane;train
+emerald,Emerald is a shade of color resembling green gems.,olive;beige;gold
+architect,Architect is a profession involving designing.,dentist;artist;lawyer
+router,Router refers to network security in computing.,algorithm;database;firewall
+crimson,Crimson is a shade of color resembling green gems.,indigo;gold;turquoise
+hammer,Hammer is a tool used for boring holes.,chisel;wrench;tape
+mexico,Mexico is a country known for its history.,china;spain;brazil
+cactus,Cactus is a plant characterized by fast growth.,rose;lily;fern
+gold,Gold is a shade of color resembling a clear sky.,lavender;crimson;azure
+olive,Olive is a shade of color resembling green gems.,beige;emerald;azure
+firewall,Firewall refers to communication in computing.,compiler;router;bandwidth
+submarine,Submarine is a vehicle used for transportation.,tram;scooter;yacht
+france,France is a country known for its cuisine.,italy;india;germany
+kernel,Kernel refers to network security in computing.,firewall;database;algorithm
+elephant,Elephant is a wild animal.,panda;kangaroo;bear
+pilot,Pilot is a profession involving helping people.,lawyer;dentist;teacher
+peach,Peach is a tangy fruit prized for its taste.,papaya;kiwi;strawberry
+giraffe,Giraffe is a wild animal.,penguin;rhino;wolf
+papaya,Papaya is a juicy fruit prized for its taste.,pineapple;cherry;peach
+encryption,Encryption refers to storing information in computing.,database;algorithm;router
+oak,Oak is a plant characterized by fast growth.,pine;rose;sunflower
+cycling,Cycling is a sport involving field.,tennis;baseball;cricket
+database,Database refers to communication in computing.,algorithm;bandwidth;router
+chisel,Chisel is a tool used for cutting.,anvil;pliers;hammer
+pear,Pear is a tangy fruit prized for its taste.,mango;papaya;cherry
+indigo,Indigo is a shade of color resembling sand.,lavender;maroon;turquoise
+golf,Golf is a sport involving a ball.,skiing;boxing;football
+rhino,Rhino is a aquatic animal.,giraffe;eagle;shark
+pixel,Pixel refers to securing data in computing.,compiler;database;encryption
+nurse,Nurse is a profession involving teaching.,dentist;teacher;architect
+lily,Lily is a plant characterized by fragrance.,sunflower;oak;pine
